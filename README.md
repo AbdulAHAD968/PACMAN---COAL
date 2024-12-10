@@ -78,11 +78,11 @@ This project implements a classic **Pac-Man** game using Assembly language (8086
 
 ## Screenshots
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome_screen.png)
+![Welcome Screen](screenshots/Capture.PNG)
 ### Gameplay Screen
-![Gameplay Screen](screenshots/gameplay_screen.png)
+![Gameplay Screen](screenshots/Capture1.PNG)
 ### High Score Screen
-![High Score Screen](screenshots/high_score_screen.png)
+![High Score Screen](screenshots/Capture2.PNG)
 
 ---
 
