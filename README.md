@@ -107,10 +107,30 @@ Pacman-8086/
 ---
 
 ## Acknowledgments
-Special thanks to instructors and peers who provided guidance and resources. 🙌
+Special thanks to instructors and peers specially **Iqrash Qureshi** who provided guidance and resources. 🙌
 
 ---
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details. 📜
 
+---
+
+## ⚠️ Errors and Omissions
+
+If you encounter any errors, bugs, or have suggestions for improvements, feel free to reach out to me.
+
+You can contact me via email at: [ahad06074@gmail.com](mailto:ahad06074@gmail.com)
+
+Errors and omissions are accepted!
+
+---
+
+## 🤖 Credits
+
+Built with ❤️ by a passionate team of developers. 
+The one and only **Abdul Ahad (Null and Void)** and Respected **Iqrash Qureshi**
+Graphics powered by **IRVINE32.INC**.
+
+Feel free to **fork**, **contribute**, or **share your thoughts**! 🌟
+And if you are going to clone the repositery without credits, **v will see u in hell(corporate).**
